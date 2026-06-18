@@ -13,11 +13,11 @@ Developed a command-line file management tool using Java to perform common file 
 ## Features
 
 * List files and directories
-* Create files
 * Copy files
-* Delete files
+* Move files
+* Delete files and directories
 * Rename files
-* File handling using Java APIs
+* Input validation and exception handling
 
 ## Skills
 
